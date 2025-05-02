@@ -22,3 +22,4 @@ Healthy_b	Very healthy leaf with vivid color, clear veins, and no visible stress
 2 Load the EfficientNet model to give an exact output like the disease name and the confience which will be save as JSON file.
 3 Use the LLM to give the report from the JSON input.
 
+I have used test.png for step2 and step3 and it work well.
