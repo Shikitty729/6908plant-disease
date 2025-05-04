@@ -1,0 +1,22 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+env/
+venv/
+oled-env/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
+# Ignore dataset
+PlantVillage/
+models/images/
+models/labels/
+models/train/
+models/val/
