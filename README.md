@@ -64,3 +64,7 @@ Healthy_a	Healthy leaf with normal color and texture, but may show slight enviro
 Healthy_b	Very healthy leaf with vivid color, clear veins, and no visible stress or disease signs.
 
 The results of YOLOv8 are in dict train and dict val. The dict weights keep the last model and best model with 40 epochs.
+
+
+### Pipeline:
+The pipeline.ipynb file containes the complete end-to-end implementation from loading DenseNet121 model to generating the LLM diagnostic report.
