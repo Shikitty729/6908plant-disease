@@ -20,3 +20,4 @@ models/images/
 models/labels/
 models/train/
 models/val/
+.ipynb_checkpoints/*
